@@ -1,0 +1,122 @@
+{
+    "id": 2196922086,
+    "id_str": "2196922086",
+    "name": "OnePlus",
+    "screen_name": "oneplus",
+    "location": "",
+    "profile_location": null,
+    "description": "Our mission is to share the best technology, built hand-in-hand with you. We focus on smooth software, powerful hardware, and expert craftsmanship.",
+    "url": "https://t.co/EES5hyUMA9",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/EES5hyUMA9",
+                    "expanded_url": "http://oneplus.com",
+                    "display_url": "oneplus.com",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
+        "description": {
+            "urls": []
+        }
+    },
+    "protected": false,
+    "followers_count": 1523727,
+    "friends_count": 17,
+    "listed_count": 2984,
+    "created_at": "Sat Nov 16 01:50:21 +0000 2013",
+    "favourites_count": 6942,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": true,
+    "statuses_count": 10795,
+    "lang": "en",
+    "status": {
+        "created_at": "Thu Jan 17 09:31:16 +0000 2019",
+        "id": 1085831914424942592,
+        "id_str": "1085831914424942592",
+        "text": "@angus464_ @theMrMobile Bro, do you even @Disney ?",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "angus464_",
+                    "name": "Angus",
+                    "id": 1075529645661900800,
+                    "id_str": "1075529645661900800",
+                    "indices": [
+                        0,
+                        10
+                    ]
+                },
+                {
+                    "screen_name": "theMrMobile",
+                    "name": "Michael Fisher",
+                    "id": 380783806,
+                    "id_str": "380783806",
+                    "indices": [
+                        11,
+                        23
+                    ]
+                },
+                {
+                    "screen_name": "Disney",
+                    "name": "Disney",
+                    "id": 67418441,
+                    "id_str": "67418441",
+                    "indices": [
+                        41,
+                        48
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "in_reply_to_status_id": 1085831379789570048,
+        "in_reply_to_status_id_str": "1085831379789570048",
+        "in_reply_to_user_id": 1075529645661900800,
+        "in_reply_to_user_id_str": "1075529645661900800",
+        "in_reply_to_screen_name": "angus464_",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "EB0027",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/968377614531547136/j2tUYHq__normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/968377614531547136/j2tUYHq__normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2196922086/1547023612",
+    "profile_link_color": "EB0027",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": false,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+}

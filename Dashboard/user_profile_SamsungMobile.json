@@ -1,0 +1,153 @@
+{
+    "id": 297169759,
+    "id_str": "297169759",
+    "name": "Samsung Mobile",
+    "screen_name": "SamsungMobile",
+    "location": "",
+    "profile_location": null,
+    "description": "Official Twitter of the #GalaxyNote9 and #GalaxyS9",
+    "url": "http://t.co/C2QCS6cdGV",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "http://t.co/C2QCS6cdGV",
+                    "expanded_url": "http://samsung.com/Galaxy",
+                    "display_url": "samsung.com/Galaxy",
+                    "indices": [
+                        0,
+                        22
+                    ]
+                }
+            ]
+        },
+        "description": {
+            "urls": []
+        }
+    },
+    "protected": false,
+    "followers_count": 12061258,
+    "friends_count": 434,
+    "listed_count": 12280,
+    "created_at": "Thu May 12 01:59:25 +0000 2011",
+    "favourites_count": 168,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": true,
+    "statuses_count": 4888,
+    "lang": "en",
+    "status": {
+        "created_at": "Thu Jan 17 01:26:34 +0000 2019",
+        "id": 1085709933088108544,
+        "id_str": "1085709933088108544",
+        "text": "RT @Samsung: \u201cWe will continue pushing the limits of possibility and shape the future as it unfolds\u201d\nhttps://t.co/3oZe8GEwVh",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Samsung",
+                    "name": "Samsung Electronics",
+                    "id": 2381578122,
+                    "id_str": "2381578122",
+                    "indices": [
+                        3,
+                        11
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/3oZe8GEwVh",
+                    "expanded_url": "https://news.samsung.com/global/editorial-what-will-the-next-phase-of-smartphone-innovation-bring?utm_source=nr_twitter&utm_medium=social",
+                    "display_url": "news.samsung.com/global/editori\u2026",
+                    "indices": [
+                        101,
+                        124
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Wed Jan 16 09:00:00 +0000 2019",
+            "id": 1085461655666995200,
+            "id_str": "1085461655666995200",
+            "text": "\u201cWe will continue pushing the limits of possibility and shape the future as it unfolds\u201d\nhttps://t.co/3oZe8GEwVh",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/3oZe8GEwVh",
+                        "expanded_url": "https://news.samsung.com/global/editorial-what-will-the-next-phase-of-smartphone-innovation-bring?utm_source=nr_twitter&utm_medium=social",
+                        "display_url": "news.samsung.com/global/editori\u2026",
+                        "indices": [
+                            88,
+                            111
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter Ads Composer</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 23,
+            "favorite_count": 218,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 23,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1059579950896885760/BiT-ZGLE_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1059579950896885760/BiT-ZGLE_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/297169759/1547132436",
+    "profile_link_color": "2295BE",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "E6E6E6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": false,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+}
